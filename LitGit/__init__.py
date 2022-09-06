@@ -4,7 +4,7 @@ __version__ = "0.1.0"
 (
     SUCCESS,
     FILE_ERROR,
-) = range(7)
+) = range(2)
 
 ERRORS = {
     FILE_ERROR: "unable to create file error",

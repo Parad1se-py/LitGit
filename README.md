@@ -1,2 +1,2 @@
 # LitGit #
-## LitGit is an open-source CLI application coded in Python to facilitate the process of creating a new repository.
+## LitGit is an open-source CLI application coded in Python to facilitate the process of creating a new repository by creating a .gitignore, README.md, LICENSE and requirements.txt (if python) file(s)!
